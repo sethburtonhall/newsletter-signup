@@ -1,3 +1,12 @@
+# Remix Practice
+
+ConvertKit Newsletter Signup Form with error handling, focus management, screenreader accessibility and css animation.
+
+- Remix 💻
+- ConvertKit 📮
+- Tailwind 🎨
+- Netlify 🚀
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
